@@ -1,4 +1,4 @@
-# Box Office Brains – Movie Revenue & Strategy Predictor
+# Movie Revenue Prediction System
 
 A Streamlit app and training pipeline that predicts box office revenue from movie features and provides marketing strategy insights. Trained on the TMDB 5000 movies dataset.
 
